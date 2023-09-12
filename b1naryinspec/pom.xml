@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.jaia</groupId>
-	<artifactId>b1naryspec</artifactId>
+	<artifactId>b1naryinspec</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>b1naryspec</name>
+	<name>b1naryinspec</name>
 	<description>Back end do projeto b1narySpec</description>
 	<properties>
 		<java.version>17</java.version>
