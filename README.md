@@ -1,2 +1,2 @@
 # JAIA-Back
-Repositório destinado ao projeto da API JAIA na parte do Back-End
+Repositório destinado a parte back-end do projeto jaia
